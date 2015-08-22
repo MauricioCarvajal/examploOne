@@ -1,0 +1,6 @@
+pregunta 1.- usted a sido contratado como desarrollador de S.W. en el hotel regina para el modulo de reservas de habitaciones el hotel cuenta con 10 habitaciones 2 matrimoniales 4 simples , 4 dobles el hotel cuenta con 2 empleados de los q se necesita saber el nombre completo , CI y cargo.
+los clientes pueden reservas cualquier tipo de habitacion dando a conocer el nombre completo CI y monto a pagar , los datos de las reservas son numero de habitacion tipo de habitacion costo de habitacion empleado y datos del cliente realice un menu con los siguientes datos:
+1 registrar reserva 
+2 mostrar reservas 
+3 salir del sistema 
+considere en las reservas el limite de las habitaciones y la devolucion del cambio 
